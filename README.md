@@ -2,7 +2,9 @@
 
 ### Hi there 👋
 🙋‍♂️My name is Dave.
+<br>
 🗾 でイビ・フリードマンと申します。
+<br>
 📫 How to reach me:
 <br>
 [LinkedIn](https://www.linkedin.com/in/heracliteanflux/)
