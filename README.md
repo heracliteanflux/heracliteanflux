@@ -1,6 +1,8 @@
 <img src="color.jpg"/>
 
 ### Hi there 👋
+🙋‍♂️My name is Dave.
+🗾 でイビ・フリードマンと申します。
 📫 How to reach me:
 <br>
 [LinkedIn](https://www.linkedin.com/in/heracliteanflux/)
