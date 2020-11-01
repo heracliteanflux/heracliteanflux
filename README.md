@@ -1,4 +1,5 @@
 ### Hi there 👋
+📫 How to reach me: davefriedman@protonmail.com
 
 <!--
 **davefriedman01/davefriedman01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
