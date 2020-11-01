@@ -8,8 +8,6 @@
 📫 How to reach me:
 <br>
 [LinkedIn](https://www.linkedin.com/in/heracliteanflux/)
-<br>
-[Email](davefriedman@protonmail.com)
 
 <!--
 **davefriedman01/davefriedman01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
