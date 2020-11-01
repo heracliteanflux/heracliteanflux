@@ -1,7 +1,7 @@
 <img src="color.jpg"/>
 
-### Hi there 👋
-🙋‍♂️My name is Dave.
+### Hey there 👋
+🙋‍♂️My name's Dave!
 <br>
 🗾 でイビ・フリードマンと申します。
 <br>
