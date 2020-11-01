@@ -1,5 +1,8 @@
 ### Hi there 👋
+📫 How to reach me:
+<br>
 [LinkedIn](https://www.linkedin.com/in/heracliteanflux/)
+<br>
 [Email](davefriedman@protonmail.com)
 
 <!--
