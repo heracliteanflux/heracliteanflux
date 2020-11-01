@@ -1,4 +1,4 @@
-<img src="images/color.jpg"/>
+<img src="color.jpg"/>
 ### Hi there 👋
 📫 How to reach me:
 <br>
