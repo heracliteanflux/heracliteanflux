@@ -3,11 +3,13 @@
 ### Hey there 👋
 🙋‍♂️My name's Dave!
 <br>
-🗾 でイビ・フリードマンと申します。
-<br>
 📫 How to reach me:
 <br>
 [LinkedIn](https://www.linkedin.com/in/heracliteanflux/)
+<br>
+🇪🇸 ¡Hablo español!
+<br>
+🗾 でイビ・フリードマンと申します。日本語も話せます！
 
 <!--
 **davefriedman01/davefriedman01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
