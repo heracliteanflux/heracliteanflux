@@ -1,10 +1,9 @@
-<img src="color.jpg"/>
-
-### Hey there 👋
-🙋‍♂️My name's Dave!
-<br>
-📫 How to reach me:
-[LinkedIn](https://www.linkedin.com/in/heracliteanflux/)
+### Hey there, I'm Dave 👋
+<hr>
+<a href="https://www.linkedin.com/in/heracliteanflux/">
+  <img align="left" alt="Dave Friedman | LinkedIn" width="25px" src="linkedin.svg"/>
+</a>
+<img width="100px" src="color.jpg"/>
 <br>
 🇪🇸 Me llamo Dave.
 <br>
