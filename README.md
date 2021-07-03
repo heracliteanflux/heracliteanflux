@@ -1,25 +1,7 @@
 ### Hey there, I'm Dave 👋
-<hr>
+
 <a href="https://www.linkedin.com/in/heracliteanflux/">
   <img align="left" alt="Dave Friedman | LinkedIn" width="25px" src="linkedin.svg"/>
 </a>
-<img width="100px" src="color.jpg"/>
-<br>
-🇪🇸 Me llamo Dave.
-<br>
-🗾 でイビ・フリードマンと申します。
 
-<!--
-**davefriedman01/davefriedman01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="500px" src="color.jpg"/>
