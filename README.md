@@ -16,7 +16,7 @@ I have a wide array of interests including but not limited to
 * flamenco
 * poetry
 
-Future Projects
+Intended project ideas include but are not limited to
 * educational material in the areas listed with the aim of developing a comprehesive and mathematically robust yet clear, interactive and engaging interface.
 
 If you're interested in collaborating and you'd like to work with me feel free to send me a message on LinkedIn.
