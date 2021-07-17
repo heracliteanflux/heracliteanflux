@@ -1,4 +1,6 @@
-Hey there, I'm Dave 👋 Thank you for visiting my GitHub page! Check out the frontend <a href="https://davefriedman01.github.io">here</a>.
+Hey there, I'm Dave 👋 Thank you for visiting my GitHub page!
+
+I'm currently working on developing this page and appreciate your feedback. Check out the frontend <a href="https://davefriedman01.github.io">here</a>.
 
 I have a wide array of interests including but not limited to
 * pure and applied mathematics and their applications
