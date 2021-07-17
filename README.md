@@ -11,6 +11,7 @@ I have a wide array of interests including but not limited to
 * artificial intelligence and its applications
 * natural languages and linguistics
 * mathematical finance, financial modeling, and financial technology
+* astronomy (and stargazing)
 * the history and philosophy of these things
 
 If you have a serious interest in collaborating and you'd like to work with me feel free to send me a message on LinkedIn.
