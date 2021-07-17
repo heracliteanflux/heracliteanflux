@@ -14,6 +14,9 @@ I have a wide array of interests including but not limited to
 * astronomy (and stargazing)
 * the history and philosophy of these things
 
+Future Projects
+* educational material in the areas listed with the aim of developing a comprehesive and mathematically robust yet clear, interactive and engaging interface.
+
 If you have a serious interest in collaborating and you'd like to work with me feel free to send me a message on LinkedIn.
 
 <a href="https://www.linkedin.com/in/heracliteanflux/">
