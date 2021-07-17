@@ -13,6 +13,8 @@ I have a wide array of interests including but not limited to
 * mathematical finance, financial modeling, and financial technology
 * astronomy (and stargazing)
 * the mathematical foundations, history, and philosophy of these things
+* flamenco
+* poetry
 
 Future Projects
 * educational material in the areas listed with the aim of developing a comprehesive and mathematically robust yet clear, interactive and engaging interface.
