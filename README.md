@@ -4,7 +4,8 @@ I'm currently working on developing this page and appreciate your feedback. Chec
 
 I have a wide array of interests including but not limited to
 * pure and applied mathematics and their applications
-* formal logic and the formal properties of programming languages
+* formal logic and the formal properties of systems like programming and natural languages
+* complex systems
 * computer and information systems and security
 * computer networking and distributed systems
 * artificial intelligence and its applications
