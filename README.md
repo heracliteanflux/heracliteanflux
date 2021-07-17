@@ -19,8 +19,10 @@ I have a wide array of interests including but not limited to
 Future Projects
 * educational material in the areas listed with the aim of developing a comprehesive and mathematically robust yet clear, interactive and engaging interface.
 
-If you're interested in collaborating and you'd like to work with me feel free to send me a message on LinkedIn. "Never stop learning".
+If you're interested in collaborating and you'd like to work with me feel free to send me a message on LinkedIn.
 
 <a href="https://www.linkedin.com/in/heracliteanflux/">
   <img alt="Dave Friedman | LinkedIn" width="25px" src="assets/linkedin.svg"/>
 </a>
+
+"Never stop learning."
