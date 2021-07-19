@@ -3,13 +3,13 @@
 
 ### Interests
 Interests include but aren't limited to
-* pure and applied mathematics and their applications
-* formal logic and the formal properties of systems like programming and natural languages
-* complex systems
+* natural language and linguistics
+* pure and applied mathematics
+* formal logic and its applications
 * computer and information systems and security
 * computer networking and distributed systems
+* complex systems
 * artificial intelligence and its applications
-* natural languages and linguistics
 * mathematical finance, financial modeling, and financial technology
 * astronomy (and stargazing)
 * the mathematical foundations, history, and philosophy of these things
