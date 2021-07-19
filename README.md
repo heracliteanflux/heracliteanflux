@@ -18,7 +18,7 @@ Interests include but aren't limited to
 
 ### Projects
 Intended projects include but aren't limited to
-* educational content in the areas listed with the aim of developing comprehesive and formally robust yet friendly and engaging interfaces which challenge traditional modes of presenting information and acquiring familiarity
+* educational content in the areas listed with the aim of developing comprehesive and formally robust yet friendly and engaging interfaces which challenge traditional modes of presenting material
 
 #
 
