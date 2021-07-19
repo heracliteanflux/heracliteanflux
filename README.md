@@ -14,7 +14,7 @@ Interests include but aren't limited to
 * astronomy (and stargazing)
 * the mathematical foundations, history, and philosophy of these things
 * flamenco
-* poetry
+* reading poetry
 
 ### Projects
 Intended projects include but aren't limited to
