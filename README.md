@@ -1,5 +1,5 @@
 ### Thanks for visiting!
-Start <a href="https://davefriedman01.github.io">here</a>. Your feedback is welcome!
+<a href="https://davefriedman01.github.io">Web page under development</a>. Your feedback is welcome!
 
 ### Interests
 Interests include but aren't limited to
