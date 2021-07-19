@@ -30,5 +30,4 @@ If you're interested in collaborating and you'd like to work with me feel free t
 
 #
 
-"Never stop learning."
-
+Never stop learning :books:
