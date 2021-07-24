@@ -12,9 +12,9 @@ Interests include but aren't limited to
 * artificial intelligence and its applications
 * mathematical finance, financial modeling, and financial technology
 * astronomy (and stargazing)
-* the mathematical foundations, history, and philosophy of these things
 * flamenco
-* reading poetry
+* poetry
+* where applicable, the mathematical foundations, histories, and philosophies of these things
 
 ### Projects
 Intended projects include but aren't limited to
@@ -22,7 +22,7 @@ Intended projects include but aren't limited to
 
 #
 
-If you're interested in collaborating and you'd like to work with me feel free to send me a message on LinkedIn.
+If you'd like to chat feel free to send me a message on LinkedIn.
 
 <a href="https://www.linkedin.com/in/heracliteanflux/">
   <img alt="Dave Friedman | LinkedIn" width="25px" src="assets/linkedin.svg"/>
