@@ -1,4 +1,6 @@
-Thanks for visiting my page. Visit my webpage [here](https://davefriedman01.github.io/).
+Thanks for visiting!
+
+#
 
 Get in touch
 
