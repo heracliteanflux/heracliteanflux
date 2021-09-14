@@ -1,8 +1,6 @@
-### Thanks for visiting!
-<a href="https://davefriedman01.github.io">Web page under development</a>. Your feedback is welcome!
+Thanks for visiting my page. Visit my webpage [here](https://davefriedman01.github.io/)
 
-### Interests
-Interests include but aren't limited to
+Are you interested in
 * natural language and linguistics
 * pure and applied mathematics
 * formal logic and its applications
@@ -16,13 +14,7 @@ Interests include but aren't limited to
 * poetry
 * where applicable, the mathematical foundations, histories, and philosophies of these things
 
-### Projects
-Intended projects include but aren't limited to
-* educational content in the areas listed with the aim of developing comprehensive and formally robust yet friendly and engaging interfaces which challenge traditional teaching styles
-
-#
-
-If you'd like to chat feel free to send me a message on LinkedIn.
+Get in touch
 
 <a href="https://www.linkedin.com/in/heracliteanflux/">
   <img alt="Dave Friedman | LinkedIn" width="25px" src="assets/linkedin.svg"/>
