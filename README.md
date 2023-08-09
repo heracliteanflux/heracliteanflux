@@ -1,3 +1,3 @@
-[Libratory](https://davefriedman01.github.io/Mathematics)
+# Dave Friedman
 
-[Language & Philosophy](https://davefriedman01.github.io/Language)
+![](https://komarev.com/ghpvc/?username=davefriedman01&style=for-the-badge&label=N)
