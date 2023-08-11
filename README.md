@@ -1,4 +1,3 @@
-### ようこそ
-私の名前はDaveと申します。
+### Welcome | ようこそ
 
-![](https://komarev.com/ghpvc/?username=davefriedman01&style=for-the-badge&label=N)
+私の名前はデイビと申します。
