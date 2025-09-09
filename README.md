@@ -1,3 +1,1 @@
-### Welcome | ようこそ
-
-Check out the [laptop lab](https://heracliteanflux.github.io/laptoplab).
+I'm currently building out the [laptop lab](https://heracliteanflux.github.io/laptoplab).
