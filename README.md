@@ -1,1 +1,1 @@
-I'm currently building out the [laptop lab](https://heracliteanflux.github.io/laptoplab).
+I'm currently building out the [laptop lab](https://heracliteanflux.github.io/laptoplab), a knowledge hub which explores topics in mathematics, computer science, and philosophy and synthesizes mathematical formalisms and programmatic implementations.
